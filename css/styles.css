@@ -11014,3 +11014,28 @@ section.resume-section .resume-section-content {
     background-color: #000;
 }
 
+
+/* PRUEBAS */
+@media (max-width: 992px) {
+    .img-profile {
+        max-width: 100px;
+    }
+}
+
+@media (max-width: 992px) {
+    #navbarResponsive {
+        text-align: center;
+    }
+
+    #navbarResponsive .nav-link {
+        display: inline-block;
+        margin: 0.25rem 0;
+    }
+
+    #navbarResponsive .navbar-nav {
+        align-items: center;
+    }
+}
+
+
+
