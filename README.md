@@ -18,7 +18,7 @@ Soy Pau Ortiz Borràs, ingeniero informático con pasión por el desarrollo de s
 ## 📫 Contacto
 Puedes ponerte en contacto conmigo a través de:
 * Email: `pauortiz.mail@gmail.com`
-* LinkedIn: [TuPerfilLinkedIn](https://www.linkedin.com/in/pau-ortiz-7a0baa351)
+* LinkedIn: [https://www.linkedin.com/in/pau-ortiz](https://www.linkedin.com/in/pau-ortiz-7a0baa351)
 * GitHub: [https://github.com/zitropau](https://github.com/zitropau)
 
 ---
