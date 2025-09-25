@@ -13,7 +13,7 @@ Soy Pau Ortiz Borràs, ingeniero informático con pasión por el desarrollo de s
 - **Inicio:** Breve presentación personal.
 - **Proyectos:** Portafolio con mis trabajos destacados.
 - **Habilidades:** Tecnologías y competencias técnicas.
-- **Contacto:** Formas de comunicarte conmigo.
+- **Formación:** Educación realizada a lo largo de estos años.
 
 ## 📫 Contacto
 Puedes ponerte en contacto conmigo a través de:
