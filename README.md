@@ -1,16 +1,27 @@
-## Hi there 👋
+# ZitroPau - Portafolio Personal de Pau Ortiz Borràs
 
-<!--
-**ZitroPau/zitropau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi web personal!  
+Aquí encontrarás información sobre mi trayectoria profesional, proyectos, habilidades y formas de contacto.
 
-Here are some ideas to get you started:
+## 🌐 URL
+[https://zitropau.github.io/ZitroPau/](https://zitropau.github.io/ZitroPau/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mí
+Soy Pau Ortiz Borràs, ingeniero informático con pasión por el desarrollo de software, la innovación tecnológica y la creación de experiencias digitales impactantes. Me enfoco en construir soluciones que combinan eficiencia, diseño y escalabilidad.
+
+## 📂 Contenido de la web
+- **Inicio:** Breve presentación personal.
+- **Proyectos:** Portafolio con mis trabajos destacados.
+- **Habilidades:** Tecnologías y competencias técnicas.
+- **Contacto:** Formas de comunicarte conmigo.
+
+## 📫 Contacto
+Puedes ponerte en contacto conmigo a través de:
+* Email: `pauortiz.mail@gmail.com`
+* LinkedIn: [TuPerfilLinkedIn](https://www.linkedin.com/in/tuperfil/)
+* GitHub: [https://github.com/zitropau](https://github.com/zitropau)
+
+---
+
+By ZitroPau
+Siempre en búsqueda de la innovación y la excelencia en cada línea de código.
